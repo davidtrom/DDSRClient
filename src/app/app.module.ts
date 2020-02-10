@@ -8,6 +8,7 @@ import { CyclingHomeComponent } from './cycling-home/cycling-home.component';
 import { RunningHomeComponent } from './running-home/running-home.component';
 import { ScholarshipComponent } from './scholarship/scholarship.component';
 import { StampedeComponent } from './stampede/stampede.component';
+import { CalendarComponent } from './calendar/calendar.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { StampedeComponent } from './stampede/stampede.component';
     CyclingHomeComponent,
     RunningHomeComponent,
     ScholarshipComponent,
-    StampedeComponent
+    StampedeComponent,
+    CalendarComponent
   ],
   imports: [
     BrowserModule
