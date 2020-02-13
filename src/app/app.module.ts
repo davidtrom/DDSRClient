@@ -9,6 +9,8 @@ import { RunningHomeComponent } from './running-home/running-home.component';
 import { ScholarshipComponent } from './scholarship/scholarship.component';
 import { StampedeComponent } from './stampede/stampede.component';
 import { CalendarComponent } from './calendar/calendar.component';
+import { AppRoutingModule } from './app-routing.module';
+import { DashboardComponent } from './dashboard/dashboard.component';
 
 @NgModule({
   declarations: [
@@ -19,10 +21,12 @@ import { CalendarComponent } from './calendar/calendar.component';
     RunningHomeComponent,
     ScholarshipComponent,
     StampedeComponent,
-    CalendarComponent
+    CalendarComponent,
+    DashboardComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
