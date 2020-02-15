@@ -11,6 +11,7 @@ import { StampedeComponent } from './stampede/stampede.component';
 import { CalendarComponent } from './calendar/calendar.component';
 import { AppRoutingModule } from './app-routing.module';
 import { DashboardComponent } from './dashboard/dashboard.component';
+import { MileageMattersComponent } from './mileage-matters/mileage-matters.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { DashboardComponent } from './dashboard/dashboard.component';
     ScholarshipComponent,
     StampedeComponent,
     CalendarComponent,
-    DashboardComponent
+    DashboardComponent,
+    MileageMattersComponent
   ],
   imports: [
     BrowserModule,
