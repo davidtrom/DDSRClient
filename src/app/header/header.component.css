@@ -1,0 +1,17 @@
+.container{
+    background: url(src/assets/images/header.JPG);
+    max-height: 100%;
+    max-width: 100%;
+    padding-bottom: 15%;
+    background-repeat: no-repeat;
+    font-size: 20px; 
+    background-attachment: fixed;
+    /* background-position: top; */
+    /* font-style: bold; */
+    /* margin: 0 auto; */
+ }
+
+ .nav-item{
+     color: pink;
+     font-style: bold;
+ }
