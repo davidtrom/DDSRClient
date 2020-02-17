@@ -5,13 +5,16 @@
     padding-bottom: 15%;
     background-repeat: no-repeat;
     font-size: 20px; 
+    font-weight: bold;
+    color: black;
     background-attachment: fixed;
+    /* background-color: blueviolet; */
     /* background-position: top; */
-    /* font-style: bold; */
+    
     /* margin: 0 auto; */
  }
 
- .nav-item{
+ .nav-link{
      color: pink;
      font-style: bold;
  }

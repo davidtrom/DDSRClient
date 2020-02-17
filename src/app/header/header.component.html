@@ -1,18 +1,24 @@
 
 <div class="container">
    
-    <nav class="navbar navbar-expand-md navbar-light"> -->
+    <nav class="navbar navbar-expand-md navbar-light"> 
     
-    <!-- <button class="navbar-toggler" type="button" aria-controls="navbarContent" [attr.aria-expanded]="!collapsed"
+    <button class="navbar-toggler" type="button" aria-controls="navbarContent" [attr.aria-expanded]="!collapsed"
         aria-label="Toggle navigation" (click)="collapsed = !collapsed">
         <span class="navbar-toggler-icon"></span>
-    </button> -->
+    </button> 
 
      <div class="navbar-collapse" [class.collapse]="collapsed" id="navbarContent">
         <ul class="navbar-nav ml-auto">
-            <li class="nav-item" ngbDropdown>
+            <li class="nav-item">
                 <a class="nav-link" a [routerLink]="['/']" routerLinkActive="router-link-active"   role="button">
                   Home  
+                </a>
+            </li>
+
+            <li class="nav-item" ngbDropdown>
+                <a class="nav-link" a [routerLink]="['/stampede']" routerLinkActive="router-link-active"   role="button">
+                  Buffalo Stampede  
                 </a>
             </li>
 
@@ -23,7 +29,7 @@
             </li>
 
             <li class="nav-item" ngbDropdown display="dynamic" placement="bottom-right">
-                <a class="nav-link" a href="http://visitor.r20.constantcontact.com/manage/optin?v=001QOqrPM3hRDPubNRzABVig9RS0ilF2iLOas9C23SKezXS33JhYzTzvI_ACAh8JOAvWLjEy18jFGP8e_pNmtbKGejWX0hae0pTNt40yyDix5BqLepAk4GC13rVD6lXEX079Yb6rW8kuldVQkTuuhw7-JOu8Bnlmrb95OQHUYYb83gDuIXhIvQN7ne-DtgU8Qli5PerxYpwcJD8MJkCck9rvQ%3D%3D"  role="button">
+                <a class="nav-link" a href="https://form.jotform.com/93244433123146"  role="button">
                     Join Us!
                 </a>  
             </li>
@@ -35,4 +41,19 @@
         </ul>
     </div>
     </nav>
+
+    <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-item nav-link" href="#">Features</a>
+            <a class="nav-item nav-link" href="#">Pricing</a>
+            <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+          </div>
+        </div>
+      </nav> -->
 </div>
