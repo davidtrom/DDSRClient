@@ -6,15 +6,20 @@
     background-repeat: no-repeat;
     font-size: 20px; 
     font-weight: bold;
-    color: black;
+    color: blue;
     background-attachment: fixed;
-    /* background-color: blueviolet; */
+        /* background-color: blueviolet; */
     /* background-position: top; */
-    
-    /* margin: 0 auto; */
+        /* margin: 0 auto; */
+ }
+ .nav-item {
+     /* max-width: 100%; */
+     text-align: center;
+     /* background-color: steelblue; */
+
  }
 
- .nav-link{
+ /* .nav-link{
      color: pink;
      font-style: bold;
- }
+ } */
