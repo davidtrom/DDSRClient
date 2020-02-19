@@ -1,26 +1,21 @@
 .container{
-    background: url(src/assets/images/header.JPG);
+    background: url(src/assets/images/header2.JPG);
     max-height: 100%;
     max-width: 100%;
-    padding-bottom: 15%;
+    padding-bottom: 197px;
     background-repeat: no-repeat;
-    
-    color: blue;
-    background-attachment: fixed;
-        /* background-color: blueviolet; */
-    /* background-position: top; */
-        /* margin: 0 auto; */
- }
+}
 
  #navigationBar{
+    
+    /* text-align: center; */
     max-width: 100%; 
-    font-size: 16px; 
+    font-size: 15px; 
     font-weight: bold;
     /* padding: 0; */
     /* position: relative; */
-    margin-top: 0px;
-    
- }
+    /* margin-top: 50px; */
+     }
 
  /* .nav-link{
      color: pink;
