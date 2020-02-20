@@ -12,6 +12,8 @@ import { CalendarComponent } from './calendar/calendar.component';
 import { AppRoutingModule } from './app-routing.module';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { MileageMattersComponent } from './mileage-matters/mileage-matters.component';
+import { ReasonsToJoinComponent } from './reasons-to-join/reasons-to-join.component';
+import { LeapFrogComponent } from './leap-frog/leap-frog.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +26,9 @@ import { MileageMattersComponent } from './mileage-matters/mileage-matters.compo
     StampedeComponent,
     CalendarComponent,
     DashboardComponent,
-    MileageMattersComponent
+    MileageMattersComponent,
+    ReasonsToJoinComponent,
+    LeapFrogComponent
   ],
   imports: [
     BrowserModule,
