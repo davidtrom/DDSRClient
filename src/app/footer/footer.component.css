@@ -1,7 +1,10 @@
 .container{
 
-    background-color: grey;
+    background-color: rgb(120, 162, 187);
     max-width: 100%;
+}
+.footer-copyright{
+    background-color: rgb(235, 235, 48);
 }
 
 /* .page-footer{
