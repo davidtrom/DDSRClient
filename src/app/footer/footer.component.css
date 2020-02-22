@@ -2,8 +2,25 @@
     background-color: rgb(120, 162, 187);
     max-width: 100%;
 }
+
 .footer-copyright{
     background-color: rgb(235, 235, 48);
+}
+
+#fb{
+    /* background-image: url(src/assets/images/new_facebook_logo.png); */
+    background-repeat: no-repeat;
+    background-size: 6%;
+    padding-bottom: 30px;
+    margin-left: 200px;
+}
+
+img{
+    
+    height: 50px;
+    width: 50px;
+    margin-left: 100px;
+    margin-right: 15px;
 }
 
 /* .page-footer{
