@@ -2,31 +2,18 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Downstate Delaware Striders & Riders</title>
   <base href="/">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- <link href="data: image/x-icon;base64, iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADr0lEQVRYR+2Wa0xTdxjGn1NOQUAq
-  Gi/Mso2mMAcbuGGCicpgMiq3yVQKBDqyzERdYrJkZtM4ZcmMiWYaP7jNZAkuzuGIlDnQKKAUxiWD
-  gcAACwhWuRVYg5FbaZFzjvn/S4uHrA0flvCl77e+53/59TnP+7SMT36egGUsxg3gVsCtgFsBogDL
-  SMAwtjTieAE8xNlEHrESidO4EgQBc4IAqUQCThDACwv7WYahp5G+vUiPYRg853nQIKpL2I131qy1
-  AQgCusef4dJDPS73dtNekK8fHqSqnQJUjRjxYWUZhtM0yOvtwvGWRsfaxuQ96JkYR1aNztG7G5+M
-  WY5Dsq50AYDwfdvWjBUeHogLkOPT4E0409GK0+0t8PZgEb0hwHFAQXQcyocHHYBPrVY0jZlQ/kES
-  rBxHYUj5e3piYF82Ri0zCL5RQHtEzSG1Bpd7unCitWkBwGSx4KOqcsclJyMicSQsAmHF12GcMYu+
-  vSk9h15+tLlB1D8bGYX0ICUUv/9G+7s2BiJ/x054syxCi6+jf3oKr/muRGdqOnJqK1HU/9g5gH3h
-  Z/U1+MXQsySAzCAl8rbFUIB/LTP4ZvMWbF27Hko/GU60NKKwz4Ak+asojIlHeIkWhqkJ5wBEqmeZ
-  n+Ccvg2n2pqXBPCmzB/3U/Zit64MFSNDKI1LRK1pFCF+Mgr05f0GfPXWZnweGo5A7a/UnA4TLn4F
-  5MaxjBz80KVH7j9NSwKQMAxG1Brqmx+79TCmaZBRfQ+bZP7IVCgRU3YTV7bHYp2XN5J0d2yesE/B
-  /wFADrwXn4wnU5N0inTxKZBr8xEiW4VKVQoCCq+iLiEVpcYBfD0/KU4B7K/gvL6NTsfL5cyEZM13
-  W7Yiev0ruGroQUaQEu+VlYDMvVGtQcafFfjjfRX2/1UNbZ/BtQKv+/pBn6rG4YY6/PzIlgf2cgWQ
-  pQjG91HbcXuoH4NmM47NT8rtuEQMmqeRrQhGxE0tHk1OuAYgDv4iLBxvFxdiwDy9ZICwVatBwmd8
-  dhaH6mtQMthH9+ZGROLAG6GQgIF83oAiD8zxAo63/A1fVgqVPBAHQ0JxobMdua1iA5JNrhTwoEb8
-  mM6+ougaTFYLBVBtDMSNWBWqR4eRWGEzoAjAHsVkNHonxqmJfnrYuehXwbbJFQB5Tsy32ssL794q
-  clxkT8WLXR2iqKYmXMlKQchJWTgOVp4TSb74g0zqiVmeo2v/q3xYlkbu9Nyc6LFMKoWV40Xnu/8V
-  uxVwK+BWYNkVeAHEeA2f/aoWgwAAAABJRU5ErkJggg==" rel="icon" type="image/x-icon"/> -->
-  
-  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+  <link href="data: image/x-icon;base64, iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADN0lEQVQ4yy3My2tcVQDA4d8599w7dzKTmcy00yQksbQJkqiNMfUJhT7cRNxEUJGKUjfSRTFQEMGFiI+1G4Wu4kJFCgXtSlOUGKtQQULaaZtQzZikQ8ykSSYzc+/MfR83fn/AJ1q1T/Xd2yv4Xge0gRBNml3DfL/9HrfKFSrr69QbTZIwRno14huXEFEIUQdDRyhECFqBSIg1JDJPJzlKMZ9jf28bL+jw+OgR0B5s7HIv1UP36Bhb5WtEsUChJYkIIU5hyBA/lXD9lxrXb37Iv3+vYqdsRHsIt17FiwTn3n2fzz+4ADpGi/8DdExseOxtFfnm5zKFR6Z46uXnCBaXKRaKjA8PsPj1R1RWbrNwdRtBhNYaqTUKNALJ5pbB/A9l3rw4xWLjRaqOIpEVcoUCoitHvdlke63Mg3WwUjaB10YCEhGRaIMf59Z46dVBArdEKEJkp4FDGmlnaK78yv5uA2llQBgMjYwhlEmCROroH6qbDoNDGbK2wo36iXSB1c0maemweXOBhWtzzHx2mbc/nsXqLnJ/vUJf/xAGJrJdX2RpaYnj42liEfBADRCoGDcMMDsx1T9+whwcZXZunr3CMQ6NnMH32pj+BhfOKmQSJzRrDqa1S9DZJ+d36Pc3mJ5o01j4hFzrDuOlmMeKPlZrhzfeOs+xiUeZOdvLa6ckSghBNmfjdgIy6TIPMcNkVoOA7Lk8fsviiYkvWduwWd5waQmLfNbHdwVTFx2UlDA6ZnNrqcWZp/PY4S5ZL8Swuzg+Bt9d8eg77VO0HIZLDt0HcxSSQ5wY2WTud4XUImLoMNxfdam10iRJiC8kvhGjzIjJZxWNsESQlEjZB2g4R6nvaI48eZDLX5RQSRyjE4eTp/r4bb7NC9MmIrJIuw5dOYORwxYdNyA2BUZXmqvfbnP+nWkyPRoK+0gpJYbQ9A/uMD4puPKVpFKVtGILXypCMyYxQ+7cg9lLdV55vY/uYg0ncGkQILZuP6yX/9qj4xloDKKwwJ83IurNCC0kQggMGVPqTfP8yTa9vQdIZZ4BIZHCQYEEbSOTBA1YVpUTp00iUigpKRZ6UErSau0TOA0aKHoGqkQ6TxDv8B+WHny21Xox1wAAAABJRU5ErkJggg==" rel="icon" type="image/x-icon"/>
+   
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 </head>
 <body>
   <app-root></app-root>
 </body>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 </html>
