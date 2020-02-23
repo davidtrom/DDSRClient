@@ -1,6 +1,7 @@
 .container{
     background-color: rgb(120, 162, 187);
     max-width: 100%;
+    /* max-height: 40%; */
 }
 
 .footer-copyright{
@@ -8,20 +9,20 @@
 }
 
 #fb{
-    /* background-image: url(src/assets/images/new_facebook_logo.png); */
+    /* background-image: url(src/assets/images/new_facebook_logo.png);
     background-repeat: no-repeat;
-    background-size: 6%;
+    background-size: 6%; */
     padding-bottom: 30px;
     margin-left: 200px;
 }
 
-img{
+/* img{
     
     height: 50px;
     width: 50px;
     margin-left: 100px;
     margin-right: 15px;
-}
+} */
 
 /* .page-footer{
     background-color: cyan darken-3;
