@@ -1,10 +1,27 @@
-.container{
+/* .container{
     background-color: rgb(120, 162, 187);
     max-width: 100%;
 }
+
 .footer-copyright{
     background-color: rgb(235, 235, 48);
 }
+
+#fb{
+    background-image: url(src/assets/images/new_facebook_logo.png);
+    background-repeat: no-repeat;
+    background-size: 6%;
+    padding-bottom: 30px;
+    margin-left: 200px;
+} */
+
+/* img{
+    
+    height: 50px;
+    width: 50px;
+    margin-left: 100px;
+    margin-right: 15px;
+} */
 
 /* .page-footer{
     background-color: cyan darken-3;
@@ -14,3 +31,52 @@
 /* .fb-ic{
     background: url(src/assets/images/facebook_icon.png);
 } */
+
+#footer {
+    /* margin-top: auto; */
+    padding-top: 0;
+    /* position: absolute; */
+    left: 0;
+    /* position: relative; */
+    bottom: 0;
+    max-width: 100%;
+    height: 123px;
+    background-color: #40504f;
+}
+
+#design-block {
+    max-width: 100%;
+    height: 10px;
+    background-color: #0AA59D;
+}
+
+.flex-container {
+    padding-top: 15px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+}
+
+.container {
+    font-size: 12px;
+    padding-top: 1rem;
+}
+
+#dtvWebsite {
+    text-decoration: none;
+    color: white;
+}
+
+#dtvWebsite:after {
+    text-decoration: none;
+}
+
+.clear {
+    clear: both;
+    height: 125px;
+}
