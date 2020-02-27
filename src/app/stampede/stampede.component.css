@@ -4,3 +4,29 @@ h1{
     margin-left: 50px;
     margin-top: 15px;
 }
+
+h2{
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+#date {
+    font-size: large;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+#register-online{
+    margin-left: 39%;
+    margin-right: 25px;
+}
+
+#mail-in{
+    
+}
+
+.btn{
+    margin-top: 15px;
+}
