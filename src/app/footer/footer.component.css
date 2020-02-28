@@ -16,10 +16,10 @@
 }
 
 .flex-container {
-    padding-top: 15px;
-    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 8px;
     display: flex;
-    /* justify-content: space-around; */
+    justify-content: center;
 }
 
 img {
@@ -53,11 +53,14 @@ h3 {
 } */
 
 #facebook-icon{
-    margin-right: 8px;
-    margin-bottom: 12px
+    /* margin-right: 8px;
+    margin-bottom: 12px; */
+    margin-right: 25px;
+    
 }
 
 #instagram-icon{
-    margin-right: 8px;
-    margin-bottom: 12px
+    /* margin-right: 8px;
+    margin-bottom: 12px; */
+   
 }
