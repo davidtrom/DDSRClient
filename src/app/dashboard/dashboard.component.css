@@ -1,11 +1,12 @@
 #heading{
     margin-top: 25px;
     padding-left: 50px;
-    padding-right: 50px;
+    padding-right: 250px;
     /* padding-bottom: 100%; */
 }
 
 #text{
     padding-left: 50px;
     padding-right: 250px;
+    padding-bottom: 25px;
 }
