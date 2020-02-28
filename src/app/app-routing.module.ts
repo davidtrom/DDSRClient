@@ -8,6 +8,7 @@ import { RunningHomeComponent } from './running-home/running-home.component';
 import { CyclingHomeComponent } from './cycling-home/cycling-home.component';
 import { ReasonsToJoinComponent } from './reasons-to-join/reasons-to-join.component';
 import { LeapFrogComponent } from './leap-frog/leap-frog.component';
+import { StampedeResultsComponent } from './stampede-results/stampede-results.component';
 
 
 const routes: Routes = [
@@ -19,6 +20,7 @@ const routes: Routes = [
   { path: 'cycling', component: CyclingHomeComponent},
   { path: 'join', component: ReasonsToJoinComponent},
   { path: 'leap-frog', component: LeapFrogComponent},
+  { path: 'stampede-results', component: StampedeResultsComponent},
   // if no route, redirect to home
   { path: '**', redirectTo: '' }
 

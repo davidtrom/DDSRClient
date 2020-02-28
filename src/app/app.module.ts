@@ -13,6 +13,7 @@ import { DashboardComponent } from './dashboard/dashboard.component';
 import { MileageMattersComponent } from './mileage-matters/mileage-matters.component';
 import { ReasonsToJoinComponent } from './reasons-to-join/reasons-to-join.component';
 import { LeapFrogComponent } from './leap-frog/leap-frog.component';
+import { StampedeResultsComponent } from './stampede-results/stampede-results.component';
 
 @NgModule({
   declarations: [
@@ -27,7 +28,8 @@ import { LeapFrogComponent } from './leap-frog/leap-frog.component';
     DashboardComponent,
     MileageMattersComponent,
     ReasonsToJoinComponent,
-    LeapFrogComponent
+    LeapFrogComponent,
+    StampedeResultsComponent
   ],
   imports: [
     BrowserModule,
