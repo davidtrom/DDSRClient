@@ -1,21 +1,6 @@
-#heading{
+#heading, #subHeading, #textList, #costText, h3{
     margin-left: 50px;
     margin-top: 20px;
-}
-
-#subHeading{
-    margin-left: 50px;
-    margin-right: 250px;
-}
-
-#textList{
-    margin-left: 50px;
-    margin-right: 250px;
-}
-
-#costText{
-    margin-left: 50px;
-    margin-right: 250px;
 }
 
 #joinButton{
