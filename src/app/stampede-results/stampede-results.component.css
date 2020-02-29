@@ -1,8 +1,19 @@
+h2{
+    text-align: center;
+}
+
 .btn{
     background-color: rgb(144, 78, 182);
+    justify-content: center;
+    margin-right: 25px;
+    margin-bottom: 15px;
 }
 
 .dropdown-item{
     background-color: rgb(144, 78, 182);
     color: white;
 }
+
+/* .dropdowns{
+    justify-items: center;
+} */
