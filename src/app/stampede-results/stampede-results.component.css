@@ -2,11 +2,16 @@ h2{
     text-align: center;
 }
 
+h3{
+    text-align: center;
+    margin-top: 15px;
+}
+
 .btn{
     background-color: rgb(144, 78, 182);
-    justify-content: center;
     margin-right: 25px;
     margin-bottom: 15px;
+   
 }
 
 .dropdown-item{
@@ -14,6 +19,14 @@ h2{
     color: white;
 }
 
-/* .dropdowns{
-    justify-items: center;
-} */
+#dropdownMenuLink-5k{
+    margin-left: 36%;
+    margin-right: 10%;
+    margin-bottom: 42px;
+    margin-top: 15px
+}
+
+#dropdownMenuLink-10k{
+    margin-bottom: 42px;
+    margin-top: 15px;
+}
