@@ -1,6 +1,8 @@
 #heading, #subHeading, #textList, #costText{
     margin-left: 50px;
     margin-top: 20px;
+    padding-right: 250px
+    ;
 }
 
 #joinButton{

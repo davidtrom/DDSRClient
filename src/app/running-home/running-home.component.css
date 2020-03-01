@@ -4,7 +4,7 @@ h1, h3{
     color: rgb(89, 111, 177);
 }
 
-h2, .text{
+h2, .text, .links{
     margin-left: 50px;
     margin-right: 250px;
 }
