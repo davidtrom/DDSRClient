@@ -8,3 +8,26 @@ h2, .text, .links{
     margin-left: 50px;
     margin-right: 250px;
 }
+.Tues-maps{
+    float: left;
+    margin-left: 55px;
+    padding-bottom: 15px;
+}
+
+.clear{
+    clear: both;
+}
+
+#CRHS-map{
+    margin-right: 40px;
+}
+
+#bagel-map{
+    margin-left: 25%; 
+}
+
+#ymca-map{
+    margin-left: 25%;
+    padding-bottom: 25px;
+}
+
