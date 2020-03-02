@@ -6,8 +6,9 @@ h1, h3{
 
 h2, .text, .links{
     margin-left: 50px;
-    margin-right: 250px;
+    margin-right: 40%;
 }
+
 .Tues-maps{
     float: left;
     margin-left: 55px;
@@ -30,4 +31,3 @@ h2, .text, .links{
     margin-left: 25%;
     padding-bottom: 25px;
 }
-
