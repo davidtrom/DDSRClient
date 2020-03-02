@@ -14,6 +14,7 @@ import { MileageMattersComponent } from './mileage-matters/mileage-matters.compo
 import { ReasonsToJoinComponent } from './reasons-to-join/reasons-to-join.component';
 import { LeapFrogComponent } from './leap-frog/leap-frog.component';
 import { StampedeResultsComponent } from './stampede-results/stampede-results.component';
+import { OtherRunsComponent } from './other-runs/other-runs.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,8 @@ import { StampedeResultsComponent } from './stampede-results/stampede-results.co
     MileageMattersComponent,
     ReasonsToJoinComponent,
     LeapFrogComponent,
-    StampedeResultsComponent
+    StampedeResultsComponent,
+    OtherRunsComponent
   ],
   imports: [
     BrowserModule,

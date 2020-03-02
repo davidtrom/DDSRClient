@@ -21,4 +21,9 @@ export class ReasonsToJoinComponent implements OnInit {
     window.open('/src/assets/' + fileName);
   }
 
+  join(){
+    console.log("seeing if this works");
+    // window.open('https://form.jotform.com/93244433123146', '_blank');
+  }
+//window.location.href = ""'https://form.jotform.com/93244433123146';"
 }
