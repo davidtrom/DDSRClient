@@ -12,18 +12,9 @@ export class ReasonsToJoinComponent implements OnInit {
 
   ngOnInit() {
   }
-  displayBylaws(){
-    this.openFile("DDSR-BYLAWS.pdf");
 
-  }
-
-  openFile(fileName){
-    window.open('/src/assets/' + fileName);
-  }
-
-  join(){
-    console.log("seeing if this works");
-    // window.open('https://form.jotform.com/93244433123146', '_blank');
+  joinUs(){
+    window.open('https://form.jotform.com/93244433123146', '_blank');
   }
 //window.location.href = ""'https://form.jotform.com/93244433123146';"
 }
