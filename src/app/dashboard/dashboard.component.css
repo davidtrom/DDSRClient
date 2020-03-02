@@ -2,11 +2,36 @@
     margin-top: 25px;
     padding-left: 50px;
     padding-right: 250px;
-    /* padding-bottom: 100%; */
 }
 
-#text{
+.text{
     padding-left: 50px;
     padding-right: 250px;
     padding-bottom: 25px;
+}
+
+h3{
+    padding-left: 50px;
+    padding-right: 250px;
+}
+
+img{
+    max-height: 250px;
+    max-width: 300px;
+    /* vertical-align: middle; */
+    /* display: inline-block; */
+    border: 5px solid rgb(166, 134, 207)
+    /* margin-left: 50px; */
+}
+
+.row{
+    float: left;
+}
+
+.clear{
+    clear: both;
+}
+
+#image{
+    
 }
