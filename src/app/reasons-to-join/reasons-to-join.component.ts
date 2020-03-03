@@ -12,9 +12,5 @@ export class ReasonsToJoinComponent implements OnInit {
 
   ngOnInit() {
   }
-
-  joinUs(){
-    window.open('https://form.jotform.com/93244433123146', '_blank');
-  }
-//window.location.href = ""'https://form.jotform.com/93244433123146';"
+//window.location.href = "'https://form.jotform.com/93244433123146';"
 }
