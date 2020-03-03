@@ -14,7 +14,6 @@ h2{
 #date {
     font-size: large;
     text-align: center;
-    margin-left: 50px;
     margin-top: 15px;
 }
 
@@ -32,4 +31,13 @@ h2{
     padding-left: 50px;
     padding-right: 250px;
     margin-bottom: 15px;
+}
+
+a{
+    font-size: larger;
+}
+
+#results-link{
+    margin-left: 50px;
+    margin-bottom: 35px;
 }

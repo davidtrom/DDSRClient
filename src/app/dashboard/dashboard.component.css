@@ -6,7 +6,7 @@
 
 .text{
     padding-left: 50px;
-    padding-right: 250px;
+    padding-right: 150px;
     padding-bottom: 25px;
 }
 
@@ -27,4 +27,7 @@ img{
 
 .clear{
     clear: both;
+}
+a{
+    font-size: larger;
 }

@@ -9,6 +9,11 @@ h2, .text, .links{
     margin-right: 40%;
 }
 
+#text-stampede{
+    font-size: 16pt;
+    margin-left: 50px;
+}
+
 .Tues-maps{
     float: left;
     margin-left: 55px;
