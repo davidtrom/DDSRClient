@@ -5,23 +5,20 @@
 }
 
 .text{
+    font-size: 14pt;
     padding-left: 50px;
-    padding-right: 250px;
+    padding-right: 150px;
     padding-bottom: 25px;
 }
 
 h3{
-    padding-left: 50px;
-    padding-right: 250px;
+    margin-left: 50px;
 }
 
-img{
-    max-height: 250px;
-    max-width: 300px;
-    /* vertical-align: middle; */
-    /* display: inline-block; */
+#start-pic{
+    max-height: 275px;
+    max-width: 325px;
     border: 5px solid rgb(166, 134, 207)
-    /* margin-left: 50px; */
 }
 
 .row{
@@ -32,6 +29,6 @@ img{
     clear: both;
 }
 
-#image{
-    
+a{
+    font-size: larger;
 }

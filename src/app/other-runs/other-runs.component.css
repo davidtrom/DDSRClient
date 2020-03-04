@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: rgb(89, 111, 177);
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.text{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 14pt;
+}
+
+h3{
+    color: rgb(89, 111, 177);
+    text-align: center;
+    margin-top: 15px;
+}
+
+img{
+    margin-bottom: 50px;
+}

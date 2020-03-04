@@ -8,14 +8,9 @@
 }
 
 #navigationBar{
-    
-    /* text-align: center; */
     max-width: 100%; 
     font-size: 15px; 
     font-weight: bold;
-    /* padding: 0; */
-    /* position: relative; */
-    /* margin-top: 50px; */
 }
 
 #listItems{
