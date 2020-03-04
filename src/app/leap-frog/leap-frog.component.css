@@ -17,6 +17,12 @@ h1{
     margin-top: 15px;
 }
 
+#ride-text{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
 #register-online{
     margin-left: 39%;
     margin-right: 25px;
