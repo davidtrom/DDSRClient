@@ -5,10 +5,19 @@ h1{
     margin-top: 15px;
 }
 
-h3, .text{
+.text{
     text-align: center;
-    margin-left: 65px;
-    margin-right: 65px;
-    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 14pt;
+}
 
+h3{
+    color: rgb(89, 111, 177);
+    text-align: center;
+    margin-top: 15px;
+}
+
+#runUSA{
+    margin-bottom: 25px;
 }
