@@ -76,6 +76,7 @@ a{
 }
 
 #restStop-pic{
+    border: 4px rgb(253, 102, 47) solid;
     max-width: 420px;
     max-height: 312px;
     margin-left: 13%;
