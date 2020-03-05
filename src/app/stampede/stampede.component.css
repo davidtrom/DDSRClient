@@ -12,6 +12,7 @@ h1{
 }
 
 #maps-heading{
+    color: rgb(89, 111, 177);
     margin-top: 13%;
     margin-left: 220px;
 }
@@ -49,6 +50,15 @@ a{
     margin-left: 50px;
 }
 
+#awards, #description, #previous-results{
+    color: rgb(89, 111, 177);
+}
+
+#questions{
+    color: rgb(89, 111, 177);
+    margin-left: 50px;
+}
+
 .column{
     float: left;
     width: 50%;
@@ -77,8 +87,4 @@ img{
 
 #caption-raceStart{
     margin-right: 29%;
-}
-
-#questions{
-    margin-left: 50px;
 }

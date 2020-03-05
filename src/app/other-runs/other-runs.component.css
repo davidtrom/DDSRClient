@@ -5,6 +5,14 @@ h1{
     margin-top: 15px;
 }
 
+#intro-text{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 14pt;
+    margin-bottom: 40px;
+}
+
 .text{
     text-align: center;
     margin-left: 150px;
@@ -20,4 +28,8 @@ h3{
 
 img{
     margin-bottom: 50px;
+}
+
+#striders-logo{
+    border: 4px rgb(52, 52, 150) solid;
 }

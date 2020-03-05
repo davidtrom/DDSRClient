@@ -1,4 +1,10 @@
+h1{
+    margin-left: 50px;
+    padding-top: 20px;
+}
+
 .heading{
+    color: rgb(89, 111, 177);
     margin-left: 50px;
     margin-top: 20px;
 }

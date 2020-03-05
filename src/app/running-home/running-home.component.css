@@ -4,9 +4,14 @@ h1, h3{
     color: rgb(89, 111, 177);
 }
 
-h2, .text, .links{
+h2{
     margin-left: 50px;
-    margin-right: 40%;
+}
+
+.text{
+    font-size: 14pt;
+    margin-left: 50px;
+    margin-right: 15%;
 }
 
 #text-stampede{
