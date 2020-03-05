@@ -29,3 +29,7 @@ h3{
 img{
     margin-bottom: 50px;
 }
+
+#striders-logo{
+    border: 4px rgb(52, 52, 150) solid;
+}
