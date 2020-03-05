@@ -1,14 +1,25 @@
-#heading, #subHeading, #textList, #costText{
+#heading, #subHeading{
     margin-left: 50px;
     margin-top: 20px;
-    padding-right: 250px
-    ;
+}
+
+#textList, #costText{
+    font-size: 14pt;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding-right: 210px;
+}
+
+.subHeading{
+    color: rgb(89, 111, 177);
+    margin-left: 50px;
+    margin-top: 20px;
 }
 
 #joinButton{
-    padding-top: 20px;
-    padding-left: 100px;
-    padding-bottom: 20px;
+    padding-top: 25px;
+    padding-left: 200px;
+    padding-bottom: 25px;
 }
 
 .column{
@@ -32,15 +43,21 @@ img{
 #caption-groupRun{
     float: left;
     margin-left: 13%;
-    margin-bottom: 25px;
+    margin-bottom: 5px;
 }
 
 #caption-xmas{
     float: right;
     margin-right: 26%;
-    margin-bottom: 25px;
+    margin-bottom: 5px;
 }
 
 .clear{
     clear: both;
+}
+
+#email-text{
+    font-size: 14pt;
+    margin-left: 50px;
+    margin-bottom: 35px;
 }
