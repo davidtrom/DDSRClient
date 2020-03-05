@@ -1,15 +1,22 @@
 h1{
-    margin-left: 50px;
+    margin-left: 100px;
     padding-top: 20px;
+    text-align: center;
 }
 
 .heading{
     color: rgb(89, 111, 177);
-    margin-left: 50px;
+    margin-left: 100px;
     margin-top: 20px;
 }
 
-#subHeading{
+.text{
+    margin-left: 100px;
+    margin-right: 250px;
+    font-size: 13pt;
+}
+
+/* #subHeading{
     margin-left: 50px;
     margin-right: 250px;
 }
@@ -36,5 +43,5 @@ h1{
 #winner-registration{
     margin-left: 50px;
     margin-right: 250px;
-}
+} */
 

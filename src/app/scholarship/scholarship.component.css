@@ -1,0 +1,99 @@
+h1{
+    margin-left: 100px;
+    margin-bottom: 25px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+#intro-text{
+    margin-left: 100px;
+    margin-bottom: 25px;
+    font-size: 13pt;
+}
+
+#guidelines-heading{
+    text-align: center;
+    color: rgb(89, 111, 177);
+}
+
+#intro-text{
+    text-align: center;
+    font-size: 13pt;
+}
+
+h2{
+    margin-left: 100px;
+    color: rgb(89, 111, 177);
+}
+
+h3{
+    margin-left: 100px;
+    color: rgb(89, 111, 177);
+}
+
+#essay-heading, #cover-letter{
+    margin-left: 100px;
+}
+
+.checklist-items, #eligibility-criteria{
+    font-size: 13pt;
+    margin-left: 100px;
+}
+
+#essay-text{
+    margin-left:100px;
+    margin-right: 200px;
+    margin-bottom: 25px;
+    font-size: 13pt;
+}
+
+.text{
+    margin-left: 100px;
+    margin-bottom: 25px;
+    font-size: 13pt;
+}
+
+.column{
+    float: left;
+    width: 50%;
+    padding: 5px;  
+}
+
+.row::after{
+    content:"";
+    clear: both;
+    display: table;
+}
+
+.clear{
+    clear: both;
+}
+
+#scholarship-pic{
+    max-width: 450px;
+    max-height: auto;
+    margin-top: 25px;
+    border: 2px black solid;
+}
+
+#checklist-pic{
+    margin-top: 25px;
+    border: 2px darkblue solid;
+    max-width: 400px;
+    max-height: auto;
+}
+
+#mail-pic{
+    margin-top: 10px;
+    max-width: 300px;
+    max-height: auto;
+    margin-left: 200px;
+}
+
+#submit-text{
+    margin-left: 0;
+    
+}
+.address-text{
+    font-size: 13pt;
+}
