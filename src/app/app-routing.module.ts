@@ -10,6 +10,7 @@ import { ReasonsToJoinComponent } from './reasons-to-join/reasons-to-join.compon
 import { LeapFrogComponent } from './leap-frog/leap-frog.component';
 import { StampedeResultsComponent } from './stampede-results/stampede-results.component';
 import { OtherRunsComponent } from './other-runs/other-runs.component';
+import { AttendAMeetingComponent } from './attend-a-meeting/attend-a-meeting.component';
 
 
 const routes: Routes = [
@@ -23,6 +24,7 @@ const routes: Routes = [
   { path: 'leap-frog', component: LeapFrogComponent},
   { path: 'stampede-results', component: StampedeResultsComponent},
   { path: 'local-races', component: OtherRunsComponent},
+  { path: 'meeting', component: AttendAMeetingComponent},
   // if no route, redirect to home
   { path: '**', redirectTo: '' }
 

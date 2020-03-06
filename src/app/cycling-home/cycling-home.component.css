@@ -42,22 +42,23 @@ h2{
 }
 
 #bikeDE-logo{
-    margin-top: 20px;
+    margin-top: 0;
     margin-left: 40%;
     border: 4px black solid;
-    max-width: 225px;
-    max-height: 275px;
+    max-width: 175px;
+    max-height: auto;
 }
 
 .bikeDE-text{
     margin-left: 0;
     margin-right: 150px;
     font-size: 13pt;
+    margin-top: 20px;
 }
 
 #partner-group-heading{
-    margin-left: 0;
-    margin-top: 30px;
+    text-align: center;
+    margin-top: 25px;
 }
 
 a{
@@ -66,6 +67,16 @@ a{
 
 #wcbc-text{
     font-size: 13pt;
+    margin-left: 100px;
+    margin-top: 25px;
+    
+}
 
+#wcbc-pic{
+    max-width: 175px;
+    max-height: auto;
+    margin-left: 20px;
+    border: 4px black solid;
+    margin-bottom: 35px;
 }
 

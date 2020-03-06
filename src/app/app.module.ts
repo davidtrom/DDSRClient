@@ -15,6 +15,7 @@ import { ReasonsToJoinComponent } from './reasons-to-join/reasons-to-join.compon
 import { LeapFrogComponent } from './leap-frog/leap-frog.component';
 import { StampedeResultsComponent } from './stampede-results/stampede-results.component';
 import { OtherRunsComponent } from './other-runs/other-runs.component';
+import { AttendAMeetingComponent } from './attend-a-meeting/attend-a-meeting.component';
 
 @NgModule({
   declarations: [
@@ -31,7 +32,8 @@ import { OtherRunsComponent } from './other-runs/other-runs.component';
     ReasonsToJoinComponent,
     LeapFrogComponent,
     StampedeResultsComponent,
-    OtherRunsComponent
+    OtherRunsComponent,
+    AttendAMeetingComponent
   ],
   imports: [
     BrowserModule,
