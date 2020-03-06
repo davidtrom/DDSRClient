@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+#heading{
+    color: rgb(89, 111, 177);
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.text{
+    margin-left: 100px;
+    font-size: 13pt;
+    margin-right: 150px;
+}
+
+h4{
+    margin-top: 20px;
+}
+
+h2{
+    margin-top: 20px;
+    margin-left: 100px;
+    color: rgb(89, 111, 177);
+}
+
+#email-text{
+    margin-bottom: 35px;
+    margin-left: 100px;
+    font-size: 13pt;
+}
