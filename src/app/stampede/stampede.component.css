@@ -1,0 +1,91 @@
+h1{
+    text-align: center;
+    color: rgb(89, 111, 177);
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+#subHeading{
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+#maps-heading{
+    color: rgb(89, 111, 177);
+    margin-top: 13%;
+    margin-left: 220px;
+}
+
+#date {
+    font-size: larger;
+    text-align: center;
+    margin-top: 15px;
+}
+
+#register-online{
+    margin-left: 35%;
+    margin-right: 50px;
+}
+
+.buttons{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.text{
+    font-size: 13pt;
+    margin-left: 50px;
+    padding-right: 235px;
+    margin-bottom: 25px;
+}
+
+a{
+    font-size: larger;  
+}
+
+#results-link{
+    font-size: 13pt;
+    margin-bottom: 35px;
+    margin-left: 50px;
+}
+
+#awards, #description, #previous-results{
+    color: rgb(89, 111, 177);
+}
+
+#questions{
+    color: rgb(89, 111, 177);
+    margin-left: 50px;
+}
+
+.column{
+    float: left;
+    width: 50%;
+    padding: 5px;  
+}
+
+.row::after{
+    content:"";
+    clear: both;
+    display: table;
+}
+
+.clear{
+    clear: both;
+}
+
+.links{
+    margin-left: 220px;
+    font-size: larger;
+}
+
+img{
+    margin-top: 20px;
+    max-width: 485px;
+    max-height: 330px;
+}
+
+#caption-raceStart{
+    margin-right: 29%;
+}

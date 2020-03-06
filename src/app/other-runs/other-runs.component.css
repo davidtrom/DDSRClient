@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: rgb(89, 111, 177);
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+#intro-text{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 13pt;
+    margin-bottom: 40px;
+}
+
+.text{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 13pt;
+}
+
+h2{
+    color: rgb(89, 111, 177);
+    text-align: center;
+    margin-top: 15px;
+}
+
+img{
+    margin-bottom: 50px;
+}
+
+#striders-logo{
+    border: 4px rgb(52, 52, 150) solid;
+}

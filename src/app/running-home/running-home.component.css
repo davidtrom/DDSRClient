@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    margin-top: 25px;
+}
+
+h2{
+    margin-left: 55px;
+    margin-top: 15px;
+    color: rgb(89, 111, 177);
+}
+
+.text{
+    font-size: 13pt;
+    margin-left: 55px;
+    margin-right: 150px;
+}
+
+#text-stampede{
+    font-size: 16pt;
+    text-align: center;
+}
+
+.Tues-maps{
+    float: left;
+    margin-left: 55px;
+    padding-bottom: 15px;
+}
+
+.clear{
+    clear: both;
+}
+
+#CRHS-map{
+    margin-right: 40px;
+}
+
+#bagel-map{
+    margin-left: 25%; 
+}
+
+#ymca-map{
+    margin-left: 25%;
+    padding-bottom: 25px;
+}

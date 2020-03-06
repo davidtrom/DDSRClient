@@ -1,0 +1,82 @@
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2{
+    margin-left: 50px;
+    margin-top: 20px;
+    color: rgb(89, 111, 177);
+}
+
+#costText{
+    font-size: 13pt;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding-right: 210px;
+}
+
+#reasons-list{
+    font-size: 13pt;
+    margin-left: 50px;
+}
+
+#crHalf-pic{
+    margin-top: 10px;
+    max-width: 475px;
+    max-height: auto;
+}
+
+#caption-half{
+    margin-left: 12%;
+}
+
+#joinButton{
+    margin-top: 25px;
+    margin-left: 30%;
+    margin-bottom: 25px;
+}
+
+#attend-mtg-btn{
+    margin-left: 100px;
+}
+
+.column{
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+
+.row::after{
+    content:"";
+    clear: both;
+    display: table;
+}
+
+img{
+    width: auto;
+    height: auto;
+    margin-left: 13%;
+}
+
+#caption-groupRun{
+    float: left;
+    margin-left: 13%;
+    margin-bottom: 5px;
+}
+
+#caption-xmas{
+    float: right;
+    margin-right: 26%;
+    margin-bottom: 5px;
+}
+
+.clear{
+    clear: both;
+}
+
+#email-text{
+    font-size: 13pt;
+    margin-left: 50px;
+    margin-bottom: 35px;
+}

@@ -1,0 +1,18 @@
+.container{
+    background: url(src/assets/images/header2.JPG);
+    max-height: 100%;
+    max-width: 100%;
+    padding-bottom: 197px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#navigationBar{
+    max-width: 100%; 
+    font-size: 15px; 
+    font-weight: bold;
+}
+
+#listItems{
+    margin: 0 auto;
+}
