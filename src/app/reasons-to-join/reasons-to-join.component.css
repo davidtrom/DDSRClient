@@ -3,22 +3,32 @@ h1{
     margin-top: 20px;
 }
 
-h3{
+h2{
     margin-left: 50px;
     margin-top: 20px;
+    color: rgb(89, 111, 177);
 }
 
-#textList, #costText{
+#costText{
     font-size: 13pt;
     margin-left: 50px;
     margin-top: 20px;
     padding-right: 210px;
 }
 
-.subHeading{
-    color: rgb(89, 111, 177);
+#reasons-list{
+    font-size: 13pt;
     margin-left: 50px;
-    margin-top: 20px;
+}
+
+#crHalf-pic{
+    margin-top: 10px;
+    max-width: 475px;
+    max-height: auto;
+}
+
+#caption-half{
+    margin-left: 12%;
 }
 
 #joinButton{
