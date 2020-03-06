@@ -1,10 +1,9 @@
 h1{
-    margin-left: 100px;
-    padding-top: 20px;
     text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
 }
-
-.heading{
+#heading{
     color: rgb(89, 111, 177);
     margin-left: 100px;
     margin-top: 20px;
@@ -12,8 +11,18 @@ h1{
 
 .text{
     margin-left: 100px;
-    margin-right: 250px;
     font-size: 13pt;
+    margin-right: 150px;
+}
+
+h4{
+    margin-top: 20px;
+}
+
+h2{
+    margin-top: 20px;
+    margin-left: 100px;
+    color: rgb(89, 111, 177);
 }
 
 #email-text{

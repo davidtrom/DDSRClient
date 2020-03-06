@@ -17,7 +17,7 @@ h2{
 }
 
 #ride-text{
-    font-size: 14pt;
+    font-size: 13pt;
     text-align: center;
     margin-top: 15px;
     margin-bottom: 20px;
@@ -35,10 +35,10 @@ h2{
     margin-bottom: 35px;
 }
 
-.text{
-    font-size: 14pt;
+#email-text{
+    font-size: 13pt;
     margin-left: 50px;
-    margin-bottom: 15px;
+    margin-bottom: 35px;
     margin-right: 125px;
 }
 
@@ -46,9 +46,9 @@ a{
     font-size: larger;
 }
 
-#route-text{
+#support-text, #route-text{
     margin-left: 50px;
-    font-size: 14pt;
+    font-size: 13pt;
 }
 
 .column{
@@ -100,7 +100,7 @@ a{
 }
 
 #cueSheet-text{
-    font-size: 14pt;
+    font-size: 13pt;
     margin-right: 75px;
 }
 

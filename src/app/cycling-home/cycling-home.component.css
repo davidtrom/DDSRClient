@@ -1,0 +1,82 @@
+h1{
+    margin-top: 25px;
+    text-align: center;
+}
+
+h2{
+    margin-left: 75px;
+    color: rgb(89, 111, 177);
+    margin-top: 20px;
+}
+
+.text{
+    font-size: 13pt;
+    margin-left: 75px;
+    margin-right: 150px;
+    margin-bottom: 25px;
+}
+
+.map{
+    margin-left: 25%;
+}
+
+#column-logo{
+    float: left;
+    width: 30%;
+    padding: 5px;  
+}
+
+#column-partner-description{
+    width: 70%;
+    padding: 5px;  
+}
+
+.row::after{
+    content:"";
+    clear: both;
+    display: table;
+}
+
+.clear{
+    clear: both;
+}
+
+#bikeDE-logo{
+    margin-top: 0;
+    margin-left: 40%;
+    border: 4px black solid;
+    max-width: 175px;
+    max-height: auto;
+}
+
+.bikeDE-text{
+    margin-left: 0;
+    margin-right: 150px;
+    font-size: 13pt;
+    margin-top: 20px;
+}
+
+#partner-group-heading{
+    text-align: center;
+    margin-top: 25px;
+}
+
+a{
+    font-size: larger;
+}
+
+#wcbc-text{
+    font-size: 13pt;
+    margin-left: 100px;
+    margin-top: 25px;
+    
+}
+
+#wcbc-pic{
+    max-width: 175px;
+    max-height: auto;
+    margin-left: 20px;
+    border: 4px black solid;
+    margin-bottom: 35px;
+}
+

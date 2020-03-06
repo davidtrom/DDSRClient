@@ -1,25 +1,44 @@
-#heading, #subHeading{
-    margin-left: 50px;
+h1{
+    text-align: center;
     margin-top: 20px;
 }
 
-#textList, #costText{
-    font-size: 14pt;
+h2{
+    margin-left: 50px;
+    margin-top: 20px;
+    color: rgb(89, 111, 177);
+}
+
+#costText{
+    font-size: 13pt;
     margin-left: 50px;
     margin-top: 20px;
     padding-right: 210px;
 }
 
-.subHeading{
-    color: rgb(89, 111, 177);
+#reasons-list{
+    font-size: 13pt;
     margin-left: 50px;
-    margin-top: 20px;
+}
+
+#crHalf-pic{
+    margin-top: 10px;
+    max-width: 475px;
+    max-height: auto;
+}
+
+#caption-half{
+    margin-left: 12%;
 }
 
 #joinButton{
-    padding-top: 25px;
-    padding-left: 200px;
-    padding-bottom: 25px;
+    margin-top: 25px;
+    margin-left: 30%;
+    margin-bottom: 25px;
+}
+
+#attend-mtg-btn{
+    margin-left: 100px;
 }
 
 .column{
@@ -57,7 +76,7 @@ img{
 }
 
 #email-text{
-    font-size: 14pt;
+    font-size: 13pt;
     margin-left: 50px;
     margin-bottom: 35px;
 }
