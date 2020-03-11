@@ -5,32 +5,32 @@ h1{
 
 #heading{
     color: rgb(89, 111, 177);
-    margin-top: 25px;
-    margin-left: 50px;
+    margin-top: 3%;
+    margin-left: 4%;
 }
 
 .text{
     font-size: 13pt;
-    padding-left: 50px;
-    padding-right: 100px;
-    padding-bottom: 25px;
+    padding-left: 4%;
+    padding-right: 8%;
+    padding-bottom: 3%;
     display: inline;
 }
 
 .interested-text{
     font-size: 13pt;
-    margin-bottom: 35px;
-    margin-left: 50px;
+    margin-bottom: 3%;
+    margin-left: 4%;
 
 }
 
 h3{
     color: rgb(89, 111, 177);
-    margin-left: 50px;
+    margin-left: 4%;
 }
 
 img{
-    margin-top:5px;
+    margin-top: 1%;
     max-height: 275px;
     max-width: 325px;
     border: 4px solid rgb(180, 70, 121)
