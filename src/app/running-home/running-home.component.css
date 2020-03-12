@@ -25,6 +25,7 @@ h2{
     float: left;
     margin-left: 4%;
     padding-bottom: 3%;
+    text-align: center;
 }
 
 .clear{
@@ -33,18 +34,11 @@ h2{
 
 #CRHS-map{
     padding-right: 2%;
-    /* align-content: center; */
 }
 
-/* #bagel-map{
-    margin-left: 25%; 
-} */
-
-/* #ymca-map{
-    margin-left: 25%;
-    padding-bottom: 2%;
-} */
 .maps{
     text-align: center;
     padding-bottom: 3%;
+    width: auto;
+    height: auto;
 }

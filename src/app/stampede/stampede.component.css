@@ -1,43 +1,43 @@
 h1{
     text-align: center;
     color: rgb(89, 111, 177);
-    margin-left: 50px;
-    margin-top: 15px;
+    margin-left: 4%;
+    margin-top: 2%;
 }
 
 #subHeading{
     text-align: center;
-    margin-left: 50px;
-    margin-top: 15px;
+    margin-left: 4%;
+    margin-top: 2%;
 }
 
 #maps-heading{
     color: rgb(89, 111, 177);
     margin-top: 13%;
-    margin-left: 220px;
+    margin-left: 32%;
 }
 
 #date {
     font-size: larger;
     text-align: center;
-    margin-top: 15px;
+    margin-top: 2%;
 }
 
 #register-online{
     margin-left: 35%;
-    margin-right: 50px;
+    margin-right: 4%;
 }
 
 .buttons{
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 4%;
+    margin-bottom: 4%;
 }
 
 .text{
     font-size: 13pt;
-    margin-left: 50px;
+    margin-left: 4%;
     padding-right: 235px;
-    margin-bottom: 25px;
+    margin-bottom: 3%;
 }
 
 a{
